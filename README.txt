@@ -31,3 +31,13 @@ Storage:
 
 A storage framework is provided to show you a way (others exists) 
 to decouple domain logic from backend persistence.
+
+Tools Required:
+
+•	JBossNetty http://netty.io/downloads.html
+•	Google Protocol Buffer 2.5 (Google Protobuf)  https://code.google.com/p/protobuf/downloads/list
+•	JDK 1.7 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+•  Erlang 17.1 http://www.erlang.org/download.html
+•  Cygwin if you are using windows platform. https://www.cygwin.com/install.html 
+
+
